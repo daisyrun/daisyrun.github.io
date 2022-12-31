@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://daisyrun.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-12-31T03:33:14.323Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://daisyrun.github.io"/>
+    <link rel="self" href="https://daisyrun.github.io/atom.xml"/>
+    <subtitle>米罐</subtitle>
+    <logo>https://daisyrun.github.io/images/avatar.png</logo>
+    <icon>https://daisyrun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[now at last]]></title>
+        <id>https://daisyrun.github.io/post/now-at-last/</id>
+        <link href="https://daisyrun.github.io/post/now-at-last/">
+        </link>
+        <updated>2022-12-31T03:12:42.000Z</updated>
+        <content type="html"><![CDATA[<p>在所有的热闹之后，还想要平静，像水流一样缓缓地流过。阳光把水流安抚得很好。</p>
+<p>一扇明亮的窗，等待着最后降落的时刻。幸福又悲伤，迷蒙在心上。</p>
+<p>想到一个名字，所有的东西蒙上了金光，蒙上了水汽，伸手过去，伸手过去，伸手过去。</p>
+<p>是奇妙的，深呼吸。被爱笼罩，被想要感恩的心情充盈。</p>
+<p>抱抱，在我怀里和在我眼睛里的。<br>
+<img src="https://daisyrun.github.io/post-images/1672457561918.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[finally]]></title>
+        <id>https://daisyrun.github.io/post/test/</id>
+        <link href="https://daisyrun.github.io/post/test/">
+        </link>
+        <updated>2022-12-04T10:35:46.000Z</updated>
+        <content type="html"><![CDATA[<p>And the start</p>
+]]></content>
+    </entry>
+</feed>
